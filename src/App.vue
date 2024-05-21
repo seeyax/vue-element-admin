@@ -5,6 +5,7 @@
 </template>
 
 <script>
+// 测试vscode
 export default {
   name: 'App'
 }
